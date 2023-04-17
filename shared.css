@@ -6,12 +6,25 @@
 
 body {
   font-family: "Overpass", sans-serif;
-  margin: 0;
   display: flex;
   height: 100vh;
+  min-width: 320px;
+  margin: 0;
   justify-content: center;
   align-items: center;
   background-color: hsl(216, 12%, 8%);
+}
+
+h1 {
+  color: white;
+  margin-top: 20px;
+  margin-bottom: 0;
+}
+
+p {
+  color: #747c88;
+  font-size: 15px;
+  margin-top: 20px;
 }
 
 .container {
@@ -21,12 +34,7 @@ body {
   border-radius: 5%;
 }
 
-h1 {
-  color: white;
-}
-
-p {
-  color: #747c88;
-  font-size: 15px;
-  margin: auto;
+.text-container {
+  margin: 30px auto;
+  width: 90%;
 }

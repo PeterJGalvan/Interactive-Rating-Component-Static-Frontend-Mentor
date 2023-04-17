@@ -3,21 +3,15 @@ main {
 }
 
 .thank-you-rating {
-  width: 50%;
+  width: 60%;
+  margin-inline: auto;
   padding: 10px 0;
   color: hsl(25, 97%, 53%);
   background-color: #262c36;
   border-radius: 16px;
 }
 
-img {
+.thank-you-img {
   display: block;
   margin: auto;
-  margin-top: 30px;
-  margin-bottom: 20px;
-}
-
-.closing {
-  width: 90%;
-  margin-bottom: 30px;
 }
