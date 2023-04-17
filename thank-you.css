@@ -1,0 +1,23 @@
+main {
+  text-align: center;
+}
+
+.thank-you-rating {
+  width: 50%;
+  padding: 10px 0;
+  color: hsl(25, 97%, 53%);
+  background-color: #262c36;
+  border-radius: 16px;
+}
+
+img {
+  display: block;
+  margin: auto;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.closing {
+  width: 90%;
+  margin-bottom: 30px;
+}
