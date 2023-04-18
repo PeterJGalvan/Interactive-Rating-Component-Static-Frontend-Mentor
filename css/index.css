@@ -25,6 +25,15 @@
   color: white;
 }
 
+.rating-button-selected {
+  background-color: #747c88;
+  color: white;
+  border-radius: 100%;
+  border: none;
+  width: 40px;
+  height: 45px;
+}
+
 .submit-button {
   background-color: hsl(25, 97%, 53%);
   color: white;

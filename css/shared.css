@@ -27,6 +27,10 @@ p {
   margin-top: 20px;
 }
 
+button:hover {
+  cursor: pointer;
+}
+
 .container {
   max-width: 375px;
   background-color: #202731;
