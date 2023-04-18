@@ -11,8 +11,9 @@
       href="./images/favicon-32x32.png"
     />
 
-    <link rel="stylesheet" type="text/css" href="shared.css" />
-    <link rel="stylesheet" type="text/css" href="thank-you.css" />
+    <link rel="stylesheet" type="text/css" href="/css/shared.css" />
+    <link rel="stylesheet" type="text/css" href="/css/thank-you.css" />
+    <script src="/javascript/main.js"></script>
 
     <title>Frontend Mentor | Interactive rating component</title>
   </head>
@@ -24,7 +25,13 @@
           src="images/illustration-thank-you.svg"
           alt="Phone making a transaction"
         />
-        <p class="thank-you-rating">You selected ? out of 5</p>
+        <p class="thank-you-rating">
+          You selected
+          <script type="text/javascript">
+            document.write(rating);
+          </script>
+          out of 5
+        </p>
         <h1>Thank you!</h1>
         <p class="closing">
           We appreciate you taking the time to give a rating. If you ever need

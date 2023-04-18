@@ -11,8 +11,10 @@
       href="./images/favicon-32x32.png"
     />
 
-    <link rel="stylesheet" type="text/css" href="shared.css" />
-    <link rel="stylesheet" type="text/css" href="index.css" />
+    <link rel="stylesheet" type="text/css" href="/css/shared.css" />
+    <link rel="stylesheet" type="text/css" href="/css/index.css" />
+
+    <script src="/javascript/main.js"></script>
 
     <title>Frontend Mentor | Interactive rating component</title>
   </head>
@@ -29,14 +31,24 @@
         </p>
 
         <div class="container-buttons">
-          <input class="rating-button" type="button" value="1" />
-          <input class="rating-button" type="button" value="2" />
-          <input class="rating-button" type="button" value="3" />
-          <input class="rating-button" type="button" value="4" />
-          <input class="rating-button" type="button" value="5" />
+          <button id="1" class="rating-button" onclick="updateRating(id)">
+            1
+          </button>
+          <button id="2" class="rating-button" onclick="updateRating(id)">
+            2
+          </button>
+          <button id="3" class="rating-button" onclick="updateRating(id)">
+            3
+          </button>
+          <button id="4" class="rating-button" onclick="updateRating(id)">
+            4
+          </button>
+          <button id="5" class="rating-button" onclick="updateRating(id)">
+            5
+          </button>
         </div>
 
-        <input class="submit-button" type="button" value="Submit" />
+        <button class="submit-button" onclick="submit()">Submit</button>
       </div>
     </main>
   </body>
