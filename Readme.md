@@ -27,10 +27,10 @@ Users should be able to:
 
 ### Screenshot
 
-Screen Shoot of desktop view of my solution rating screen
+Screenshot of desktop view of my solution rating screen
 ![Screen Shoot of desktop view of my solution rating screen](./images/project-screenshoot-rating.png)
 
-Screen Shoot of desktop view of my solution thank you screen
+Screenshot of desktop view of my solution thank you screen
 ![Screen Shoot of desktop view of my solution thank you screen](./images/project-screenshoot-thank-you.png)
 
 ### Links
