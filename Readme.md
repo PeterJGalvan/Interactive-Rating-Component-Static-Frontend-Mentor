@@ -35,7 +35,7 @@ Screenshot of desktop view of my solution thank you screen
 
 ### Links
 
-- Solution URL: [solution URL here](https://your-solution-url.com)
+- Solution URL: [solution URL here](https://www.frontendmentor.io/solutions/rating-component-sJPwBT_Vr5)
 - Live Site URL: [live site URL here](https://peterjgalvan.github.io/Interactive-Rating-Component-Static-Frontend-Mentor/)
 
 ## My process
