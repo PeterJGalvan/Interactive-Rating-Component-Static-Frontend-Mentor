@@ -27,50 +27,27 @@ Users should be able to:
 
 ### Screenshot
 
-![Screen shot of desktop view of my solution](./images/project-screenshoot.png)
+Screen Shoot of desktop view of my solution rating screen
+![Screen Shoot of desktop view of my solution rating screen](./images/project-screenshoot-rating.png)
+
+Screen Shoot of desktop view of my solution thank you screen
+![Screen Shoot of desktop view of my solution thank you screen](./images/project-screenshoot-thank-you.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [solution URL here](https://your-solution-url.com)
+- Live Site URL: [live site URL here](https://peterjgalvan.github.io/Interactive-Rating-Component-Static-Frontend-Mentor/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - Flexbox
-- CSS Grid
 - Mobile-first workflow
-- [React](https://reactjs.org/) - JS library
-- [Next.js](https://nextjs.org/) - React framework
-- [Styled Components](https://styled-components.com/) - For styles
-
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
+- Google Fonts
+- JavaScript
 
 ### What I learned
 
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
-
-To see how you can add code snippets, see below:
-
-```html
-<h1>Some HTML code I'm proud of</h1>
-```
-
-```css
-.proud-of-this-css {
-  color: papayawhip;
-}
-```
-
-```js
-const proudOfThisFunc = () => {
-  console.log("🎉");
-};
-```
-
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-**Note: Delete this note and the content within this section and replace with your own learnings.**
+I learned how to code based on provided design sketch. That a designer would provide to frontend developer in a real life scenario and how to meet those standards. I also got to work with and use sessionStorage in my JavaScript.
